@@ -1,0 +1,1 @@
+# springbean-InitializingBean-order
